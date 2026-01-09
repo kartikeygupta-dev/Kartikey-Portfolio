@@ -8,7 +8,7 @@ The portfolio is designed using a **mobile-first approach** to ensure optimal pe
 ## 🚀 Live Demo
 
 🔗 Portfolio Website: https://kartikeygupta6386-portfolio.netlify.app/  
-🔗 GitHub Repository: https://github.com/kartikeygupta-dev
+🔗 GitHub Repository: https://github.com/kartikeygupta-dev/Kartikey-Portfolio.git
 
 ---
 
@@ -69,4 +69,4 @@ Each project includes:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/kartikeygupta-dev
+   git clone https://github.com/kartikeygupta-dev/Kartikey-Portfolio.git
